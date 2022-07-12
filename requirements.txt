@@ -1,0 +1,8 @@
+Libraries used: 
+
+pandas
+matplotlib 
+numpy 
+seaborn
+bs4 
+requests 
